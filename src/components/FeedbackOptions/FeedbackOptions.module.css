@@ -1,0 +1,12 @@
+.feedback__btn{
+    margin: 8px;
+    width: 90px;
+    height: 35px;
+    font-size: large;
+    font-weight: 520;
+    color: rgb(23, 23, 175);
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: 2px solid rgb(10, 67, 143);
+    cursor: pointer;
+}

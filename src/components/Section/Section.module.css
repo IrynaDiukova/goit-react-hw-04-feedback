@@ -1,0 +1,15 @@
+.section{
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    width: 600px;
+    height: auto;
+    background-color: #e1fbffda;
+    color: rgb(7, 33, 126);
+    text-align: center;
+}
+
+.section__title{
+    margin: 0px;
+    padding-bottom: 10px;
+}
